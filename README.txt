@@ -1,3 +1,5 @@
+Author: Michael Debenjak
+
 Requires a function python 3 installation.
 https://www.python.org/downloads/
 
@@ -16,3 +18,4 @@ Iterates over all jpg images in the images folder ('images/*.jpg'), can be chang
 
 
 Test images thanks to OpenCV Camera Calibration.
+
